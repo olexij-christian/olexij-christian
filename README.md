@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @olexij-christian
-```And I’m christian and I Love Jesus
-So now I volunteer and missionary in Kharkiv region
-In Ukraine and I write some programs in my free time```
+  - And I’m christian and I Love Jesus
+  - So now I volunteer and missionary in Kharkiv region in Ukraine
+  - And I write some programs in my free time
 - 👀 I’m interested in
   - Holy Bible
   - Gnu/Linux distribution Shell scripts
