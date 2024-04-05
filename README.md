@@ -9,7 +9,8 @@
   - JavaScript Vue Framework
 - 🌱 I’m currently learning
   - Vue
-  - Nuxt.JS
+  - MongoDB
+  - Express.js
   - GraphQl
 - 💞️ I’m looking to collaborate on
   - is related to shell scripting
